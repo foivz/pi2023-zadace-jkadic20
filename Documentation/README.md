@@ -7,3 +7,7 @@ Ovo je pomoćna mapa za dokumente i slike koje ćete referencirati u dokumentaci
 ![FZ5](https://user-images.githubusercontent.com/127048103/226306257-7b082443-a79f-4751-ba6b-38478735f88e.png)
 ![FZ6](https://user-images.githubusercontent.com/127048103/226306262-5100af17-e713-4354-868c-f0f59ecfda52.png)
 ![FZ7](https://user-images.githubusercontent.com/127048103/226306264-a123205d-efd3-41b8-bc21-be2bcfecafff.png)
+![Lista zahtjeva](https://user-images.githubusercontent.com/127048103/226311060-bcaca96b-6d33-4313-a024-a370463da240.png)
+![Obrada zahtjeva](https://user-images.githubusercontent.com/127048103/226311064-140befed-a9f8-4a68-8e19-fc395a45ac6b.png)
+![Prijava](https://user-images.githubusercontent.com/127048103/226311066-31a9811a-06cd-437b-acee-cf5ef0cb1126.png)
+![Izrada izvještaja](https://user-images.githubusercontent.com/127048103/226311069-dcc5b1c1-5a17-4a25-8bff-8e64a857e27d.png)
