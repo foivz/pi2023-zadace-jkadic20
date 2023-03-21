@@ -11,3 +11,5 @@ Ovo je pomoćna mapa za dokumente i slike koje ćete referencirati u dokumentaci
 ![Obrada zahtjeva](https://user-images.githubusercontent.com/127048103/226311064-140befed-a9f8-4a68-8e19-fc395a45ac6b.png)
 ![Prijava](https://user-images.githubusercontent.com/127048103/226311066-31a9811a-06cd-437b-acee-cf5ef0cb1126.png)
 ![Izrada izvještaja](https://user-images.githubusercontent.com/127048103/226311069-dcc5b1c1-5a17-4a25-8bff-8e64a857e27d.png)
+![Izbornik](https://user-images.githubusercontent.com/127048103/226741501-72b44138-04a0-46c8-928f-0c170713823b.png)
+![Izbornik2](https://user-images.githubusercontent.com/127048103/226741515-1cca312d-adba-4703-810b-cf21f5c508d5.png)
