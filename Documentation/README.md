@@ -23,5 +23,5 @@ Zadaća 2
 ![Dijagram Slijeda UC02](https://user-images.githubusercontent.com/127048103/232452427-84878497-c9d1-41a9-8389-2fbebac89469.png)
 ![Dijagram Slijeda UC01-1](https://user-images.githubusercontent.com/127048103/232452429-f2276a33-dc55-44c1-b14a-ddba0fbced57.png)
 ![Dijagram Slijeda UC01-2](https://user-images.githubusercontent.com/127048103/232452434-6caf3e82-0f54-432e-aafe-4ad91624fcc4.png)
-![ERA dijagram](https://user-images.githubusercontent.com/127048103/232452436-7d18862e-b875-4906-b099-b66a976dce20.png)
+![ERA dijagram](https://user-images.githubusercontent.com/127048103/232460713-3038c544-c9e6-4b9a-baae-2dfc9561bb27.png)
 ![Kompletan dijagram Klasa](https://user-images.githubusercontent.com/127048103/232452438-4d64fab0-b89e-4cfb-836c-96d95ae84048.png)
