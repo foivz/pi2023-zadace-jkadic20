@@ -13,3 +13,15 @@ Ovo je pomoćna mapa za dokumente i slike koje ćete referencirati u dokumentaci
 ![Izrada izvještaja](https://user-images.githubusercontent.com/127048103/226311069-dcc5b1c1-5a17-4a25-8bff-8e64a857e27d.png)
 ![Izbornik](https://user-images.githubusercontent.com/127048103/226741501-72b44138-04a0-46c8-928f-0c170713823b.png)
 ![Izbornik2](https://user-images.githubusercontent.com/127048103/226741515-1cca312d-adba-4703-810b-cf21f5c508d5.png)
+
+Zadaća 2
+![Dijagram Klasa UC02](https://user-images.githubusercontent.com/127048103/232452410-cffb0a41-4759-41e9-a22a-b99572c5746a.png)
+![Dijagram Klasa UC01](https://user-images.githubusercontent.com/127048103/232452417-b9fc8182-d3a7-4e40-94a4-b7661c12b8fc.png)
+![Dijagram Aktivnosti UC02](https://user-images.githubusercontent.com/127048103/232452420-08e63596-991c-4cd1-b997-312cbe883ee8.png)
+![Use Case dijagram](https://user-images.githubusercontent.com/127048103/232452423-0c72db8c-eb2a-4bdb-9010-798e7be80e8b.png)
+![Dijagram Aktivnosti UC01](https://user-images.githubusercontent.com/127048103/232452425-6ef8860a-07e6-40c9-96fd-937601a34706.png)
+![Dijagram Slijeda UC02](https://user-images.githubusercontent.com/127048103/232452427-84878497-c9d1-41a9-8389-2fbebac89469.png)
+![Dijagram Slijeda UC01-1](https://user-images.githubusercontent.com/127048103/232452429-f2276a33-dc55-44c1-b14a-ddba0fbced57.png)
+![Dijagram Slijeda UC01-2](https://user-images.githubusercontent.com/127048103/232452434-6caf3e82-0f54-432e-aafe-4ad91624fcc4.png)
+![ERA dijagram](https://user-images.githubusercontent.com/127048103/232452436-7d18862e-b875-4906-b099-b66a976dce20.png)
+![Kompletan dijagram Klasa](https://user-images.githubusercontent.com/127048103/232452438-4d64fab0-b89e-4cfb-836c-96d95ae84048.png)
