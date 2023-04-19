@@ -20,7 +20,7 @@ Zadaća 2
 ![DijagSlijeda UC01-1](https://user-images.githubusercontent.com/127048103/233195282-17ec7f76-8b99-48fc-a7f3-824d2eca6571.png)
 ![KompletanDijagKlasa](https://user-images.githubusercontent.com/127048103/233195284-9cfe73ae-ded1-4b37-8c37-a538b03fbef8.png)
 ![DijagKlasa UC02](https://user-images.githubusercontent.com/127048103/233195288-620ddcab-6080-4d2c-9add-c5931655205d.png)
-![DijagKlasa UC01](https://user-images.githubusercontent.com/127048103/233195291-52f47533-e1ce-4f9e-9ca1-7c904d868cd1.png)
+![DijagKlasa UC01](https://user-images.githubusercontent.com/127048103/233198403-d0fe2274-7802-41cb-817c-0da934c09a17.png)
 ![Era](https://user-images.githubusercontent.com/127048103/233195293-f63ec3ae-b41a-4a34-846e-bd37347e1b75.png)
 ![DijagAktiv UC01](https://user-images.githubusercontent.com/127048103/233195297-997edade-215b-4508-8ee0-8bc7052ef16d.png)
 ![DijagAktiv UC02](https://user-images.githubusercontent.com/127048103/233195299-65e7e538-2f2e-4a12-ad19-eca85af8e543.png)
