@@ -16,3 +16,4 @@ C:\Users\Jakov\source\repos\HelpDesk23\HelpDesk\HelpDesk\obj\Debug\HelpDesk.frmH
 C:\Users\Jakov\source\repos\HelpDesk23\HelpDesk\HelpDesk\obj\Debug\HelpDesk.frmLista.resources
 C:\Users\Jakov\source\repos\HelpDesk23\HelpDesk\HelpDesk\obj\Debug\HelpDesk.frmFilter.resources
 C:\Users\Jakov\source\repos\HelpDesk23\HelpDesk\HelpDesk\obj\Debug\HelpDesk.frmUrediZahtjev.resources
+C:\Users\Jakov\source\repos\HelpDesk23\HelpDesk\HelpDesk\obj\Debug\HelpDesk.frmPonoviZahtjev.resources
